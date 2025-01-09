@@ -1,0 +1,10 @@
+phi
+phidata
+nupy
+pandas
+torch
+groq
+duckduckgo-search
+seaborn
+python-pptx
+nbformat
